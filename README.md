@@ -1,0 +1,1 @@
+# Fita_de_LED_controlada_por_potenciometros_e_LDR
